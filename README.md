@@ -1,0 +1,2 @@
+# Auto_Email
+The idea of this Auto_Email transfer arises when I was sending invitations to many people whose email ids are mentioned in the excel file so for every email I have to just copy each email id and then paste it in the sender mail id one by one.So this processing was very time consuming and I start getting irritated from this thats why I came up with the idea to automatically send mails through extracting email ids from the excel file and send it. 
